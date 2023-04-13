@@ -1,0 +1,12 @@
+com\lwz\ssm\service\impl\BookServiceImpl.class
+com\lwz\ssm\config\WebConfig.class
+com\lwz\ssm\service\TypeService.class
+com\lwz\ssm\mapper\BookMapper.class
+com\lwz\ssm\service\impl\TypeServiceImpl.class
+com\lwz\ssm\config\RootConfig.class
+com\lwz\ssm\controller\BookController.class
+com\lwz\ssm\config\MyWebApplicationInitializer.class
+com\lwz\ssm\entity\Book.class
+com\lwz\ssm\service\BookService.class
+com\lwz\ssm\entity\Type.class
+com\lwz\ssm\mapper\TypeMapper.class

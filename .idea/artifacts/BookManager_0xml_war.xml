@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="BookManager_0xml:war">
+    <output-path>$PROJECT_DIR$/SSM框架_0xml_lwz_图书馆管理系统/SSM_0xml_图书管理系统/BookManager_0xml/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>BookManager_0xml</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="BookManager_0xml-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="BookManager_0xml:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2022.6.11-SSM项目完善-图书管理系统/BookManager-upload/BookManager-upload.iml" filepath="$PROJECT_DIR$/2022.6.11-SSM项目完善-图书管理系统/BookManager-upload/BookManager-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SSM_0xml_图书管理系统/BookManager_0xml/BookManager_0xml.iml" filepath="$PROJECT_DIR$/SSM_0xml_图书管理系统/BookManager_0xml/BookManager_0xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/SSM框架-图书馆管理系统-lwz.iml" filepath="$PROJECT_DIR$/.idea/SSM框架-图书馆管理系统-lwz.iml" />
+    </modules>
+  </component>
+</project>

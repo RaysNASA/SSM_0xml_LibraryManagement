@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="BookManager-upload:war exploded">
+    <output-path>$PROJECT_DIR$/2022.6.11-SSM项目完善-图书管理系统/BookManager-upload/target/BookManager-upload-1.0-SNAPSHOT</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>true</exploded>
+        <module>BookManager-upload</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="BookManager-upload" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/2022.6.11-SSM项目完善-图书管理系统/BookManager-upload/target/BookManager-upload-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="BookManager-upload/web/Web" />
+    </root>
+  </artifact>
+</component>

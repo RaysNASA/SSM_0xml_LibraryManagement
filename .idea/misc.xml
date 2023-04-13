@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/SSM框架_0xml_lwz_图书馆管理系统/SSM_0xml_图书管理系统/BookManager_0xml" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/SSM框架_0xml_lwz_图书馆管理系统/SSM_0xml_图书管理系统/BookManager_0xml/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
